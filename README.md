@@ -1,2 +1,2 @@
 # Name-Finder
-Este programa en Python solicita al usuario letras, luego filtra una lista de nombres para encontrar aquellos que comienzan con esas letras y los muestra.
+This Python program prompts the user for letters, then filters a list of names to find those starting with those letters, and displays them.
